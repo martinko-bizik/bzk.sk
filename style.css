@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 200px;
+    font-family: "snug-variable", sans-serif;
+    font-variation-settings: "wght" 500, "wdth" 55, "XHGT" 1;
+}
+
+p {
+    font-size: 20px;
+    font-family: array-mono, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    align-self: flex-end;
+}
