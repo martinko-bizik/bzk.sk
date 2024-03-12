@@ -21,10 +21,12 @@ p {
     text-align: center;
     align-self: flex-end;
     text-decoration: none;
+    color: black;
 }
 
 a {
-    text-decoration: none; 
+    text-decoration: none;
+    color: black;
 }
 
 @media screen and (max-width: 600px) {
