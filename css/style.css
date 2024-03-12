@@ -23,6 +23,10 @@ p {
     text-decoration: none;
 }
 
+a {
+    text-decoration: none; 
+}
+
 @media screen and (max-width: 600px) {
     h1 {
         font-size: 100px;
