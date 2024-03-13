@@ -10,7 +10,7 @@ body {
 h1 {
     font-size: 200px;
     font-family: "snug-variable", sans-serif;
-    font-variation-settings: "wght" 500, "wdth" 55, "XHGT" 1;
+    font-variation-settings: "wght" 500, "wdth" 100, "XHGT" 100;
 }
 
 p {
