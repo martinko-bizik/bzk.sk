@@ -8,12 +8,6 @@ body {
 }
 
 h1 {
-    font-size: 200px;
-    font-family: "snug-variable", sans-serif;
-    font-variation-settings: "wght" 500, "wdth" 100, "XHGT" 100;
-}
-
-p {
     font-size: 12px;
     font-family: array-mono, serif;
     font-weight: 400;
@@ -31,10 +25,6 @@ a {
 
 @media screen and (max-width: 600px) {
     h1 {
-        font-size: 150px;
-    }
-
-    p {
         font-size: 12px;
     }
 }
